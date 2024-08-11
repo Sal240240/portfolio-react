@@ -8,7 +8,7 @@ const Hero = () => {
         <div id='home' className= 'hero'>
           <img src={profile_img} alt="" />
            <h1><span>West Coast Rinse</span>, Professional Detailers</h1>
-           <p>We are an exterior Detailing Company from Vancouver, British Colombia</p>
+           <p>Canadian owned and operated exterior detailing company servicing the Lower Mainland and Fraser Valley </p>
            <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Us</AnchorLink></div>
             <div className="hero-resume"><AnchorLink className='anchor-link' offset={50} href='#testimonials'>Our Testimonials</AnchorLink></div>
