@@ -45,15 +45,15 @@ const Contact = () => {
                     We'd love to hear from you! Whether you have questions about our services, need a quote, or want to schedule an appointment, the team at West Coast Rinse is here to assist you. Reach out to us today, and experience the exceptional customer service and professional care that sets us apart.</p>
                     <div className="contact-details">
                         <div className="contact-detail">
-                            <img src={mail_icon} alt="" /><p>salshan2145@gmail.com</p>
+                            <img src={mail_icon} alt="" /><p>westcoastrinse@gmail.com</p>
                     
                         </div>
                         <div className="contact-detail">
-                           <img src={call_icon} alt="" /><p>6042678899</p>
+                           <img src={call_icon} alt="" /><p>778-840-1144</p>
 
                         </div>
                         <div className="contact-detail">
-                           <img src={location_icon} alt="" /><p>11617 208 st Maple Ridge BC</p> 
+                           <img src={location_icon} alt="" /><p>Maple Ridge, BC</p> 
                         </div>
                     </div>
                 </div>
