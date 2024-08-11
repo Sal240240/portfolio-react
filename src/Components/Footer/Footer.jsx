@@ -9,8 +9,8 @@ const Footer = () => {
          <div className="footer-top">
             <div className="footer-top-left">
                 <img src={footer_logo} alt="" />
-                <p> Follow us on Facebook and Instagram.
-For inquiries, call us at (123) 456-7890 or email info@westcoastrimse.com. Located in beautiful British Columbia, Canada.</p>
+                <p> Follow us on Facebook and Instagram @westcoastrinse.
+For inquiries, call us at (778) 840-1144 or email westcoastrinse@gmail.com Located in Beautiful British Columbia, Canada.</p>
             </div>
             <div className="footer-top-right">
                 <div className="footer-email-input">
