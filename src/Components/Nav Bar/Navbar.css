@@ -44,7 +44,7 @@
 .nav-mob-open{
     display: none;
 }
-@media(max-width:450px){
+@media(max-width:768px){
     .navbar{
         margin: 20px px;
     }
@@ -54,7 +54,7 @@
     .nav-mob-open{
         display: block;
         position: fixed;
-        right: 250px;
+        right: 400px;
 
     }
     .nav-mob-close{
