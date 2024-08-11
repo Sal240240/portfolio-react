@@ -44,9 +44,9 @@
 .nav-mob-open{
     display: none;
 }
-@media(max-width:768px){
+@media(max-width:450px){
     .navbar{
-        margin: 20px px;
+        margin: 20px 50px;
     }
     .nav-connect{
         display:none;
